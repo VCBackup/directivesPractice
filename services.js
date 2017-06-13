@@ -1,0 +1,3 @@
+directiveLecture.service('mainService', function(){
+
+});

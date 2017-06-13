@@ -1,0 +1,1 @@
+var directiveLecture = angular.module('directiveLecture', []);
